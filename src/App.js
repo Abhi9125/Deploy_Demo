@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Hello World</p>
+        <p>Hello World Learning how to deply project to netplify.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
